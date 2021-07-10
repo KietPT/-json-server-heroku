@@ -1,16 +1,10 @@
 {
-  "posts":[
+  "photos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "46f34729-f930-4ee1-b71f-3c50c52433cd",
+      "title": "123123",
+      "categoryId": 2,
+      "photo": "https://picsum.photos/id/967/300/300"
     }
   ]
 }
